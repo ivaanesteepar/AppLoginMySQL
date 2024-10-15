@@ -20,3 +20,17 @@ Asegúrate de colocar los siguientes archivos PHP en la ruta correcta para que l
 
 Los archivos deben estar ubicados en la siguiente ruta de tu sistema: `C:\xampp\htdocs\login`
 
+
+## Instrucciones
+
+1. Coloca los archivos PHP en la ruta especificada.
+2. Inicia el servidor Apache y MySQL desde el panel de control de XAMPP.
+3. Abre tu navegador y escribe "localhost" en la barra de direcciones. Luego, presiona **Enter**.
+4. Haz clic en el enlace de **phpMyAdmin** para acceder a la interfaz de administración de bases de datos.
+5. Busca la tabla que está conectada a la aplicación para verificar su estructura y datos.
+
+6. Accede a la aplicación desde tu navegador en la dirección `http://localhost/login`.
+
+## Notas
+
+Si tienes problemas con la conexión a la base de datos, verifica que las credenciales y la configuración de la base de datos en los archivos PHP sean correctas.
