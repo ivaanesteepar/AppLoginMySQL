@@ -29,8 +29,6 @@ Los archivos deben estar ubicados en la siguiente ruta de tu sistema: `C:\xampp\
 4. Haz clic en el enlace de **phpMyAdmin** para acceder a la interfaz de administración de bases de datos.
 5. Busca la tabla que está conectada a la aplicación para verificar su estructura y datos ("test" en este caso)
 
-6. Accede a la aplicación desde tu navegador en la dirección `http://localhost/login`.
-
 ## Notas
 
 Si tienes problemas con la conexión a la base de datos, verifica que las credenciales y la configuración de la base de datos en los archivos PHP sean correctas.
