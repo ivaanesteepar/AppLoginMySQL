@@ -27,7 +27,7 @@ Los archivos deben estar ubicados en la siguiente ruta de tu sistema: `C:\xampp\
 2. Inicia el servidor Apache y MySQL desde el panel de control de XAMPP.
 3. Abre tu navegador y escribe "localhost" en la barra de direcciones. Luego, presiona **Enter**.
 4. Haz clic en el enlace de **phpMyAdmin** para acceder a la interfaz de administración de bases de datos.
-5. Busca la tabla que está conectada a la aplicación para verificar su estructura y datos.
+5. Busca la tabla que está conectada a la aplicación para verificar su estructura y datos ("test" en este caso)
 
 6. Accede a la aplicación desde tu navegador en la dirección `http://localhost/login`.
 
