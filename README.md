@@ -12,5 +12,5 @@ Asegúrate de colocar los siguientes archivos PHP en la ruta correcta para que l
 
 ### Ruta de los archivos
 
-Los archivos deben estar ubicados en la siguiente ruta de tu sistema:
+Los archivos deben estar ubicados en la siguiente ruta de tu sistema: C:\xampp\htdocs\login
 
